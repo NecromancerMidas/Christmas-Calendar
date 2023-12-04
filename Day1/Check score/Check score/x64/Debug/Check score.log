@@ -1,0 +1,7 @@
+﻿  Check score.cpp
+C:\Users\midas\source\repos\NecromancerMidas\Get Prepared\Julekalender\Day1\Check score\Check score\Check score.cpp(63,57): warning C4101: 'e': unreferenced local variable
+C:\Users\midas\source\repos\NecromancerMidas\Get Prepared\Julekalender\Day1\Check score\Check score\Check score.cpp(74,57): warning C4101: 'e': unreferenced local variable
+C:\Users\midas\source\repos\NecromancerMidas\Get Prepared\Julekalender\Day1\Check score\Check score\Check score.cpp(161,17): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\midas\source\repos\NecromancerMidas\Get Prepared\Julekalender\Day1\Check score\Check score\Check score.cpp(169,27): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+C:\Users\midas\source\repos\NecromancerMidas\Get Prepared\Julekalender\Day1\Check score\Check score\Check score.cpp(141): warning C4715: 'getGoals': not all control paths return a value
+  Check score.vcxproj -> C:\Users\midas\source\repos\NecromancerMidas\Get Prepared\Julekalender\Day1\Check score\x64\Debug\Check score.exe
